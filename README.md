@@ -56,7 +56,7 @@ Local Development
 
 Clone the repository
 
-git clone https://github.com/YOURUSERNAME/aidapt.git
+git clone https://github.com/risabbhandari/aidapt.git
 
 Install dependencies
 
